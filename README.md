@@ -1,4 +1,4 @@
 # Final-Project
 
-the project is being contucted in braude engineering college,
+the project is being conducted in braude engineering college,
 everything is still a work in progress.
